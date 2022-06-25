@@ -24,6 +24,7 @@ I learnt the following in detail:
 ***
 - I was introduced to machine learning through the [three Coursera courses](https://www.coursera.org/specializations/deep-learning) 
 that I will be completing as a part of this project.
-    * Finished the first week of the first course.
+    * Finished the first course.
+- I was also provided with amazing resources by the mentors on understanding GANs and currently understanding CNNs through the articles,videos,interactive playgrounds and visual learning tools!
 ***
 And finally I learnt some good coding practices that would make working with my teammates easier!
